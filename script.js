@@ -109,4 +109,4 @@ authorName.style.cssText =
 const copy = card.cloneNode(true);
 wrapper.append(copy);
 
-alert("Я оцениваю свою работу на 105 баллов");
+alert("Я оцениваю свою работу на 110 баллов");
